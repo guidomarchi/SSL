@@ -6,5 +6,5 @@ int main()
     FILE *fp = fopen("output.txt","w");
     fprintf(fp,"Hola, Mundo!\n");
     fclose(fp);
-    return 0;
+    return 0; 
 }
